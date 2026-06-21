@@ -33,7 +33,7 @@
 
 
 ## 开发环境
-- Visual Studio 2022
+- Visual Studio
 - C++ (ISO C++14 标准)
 - Windows 控制台应用
 
