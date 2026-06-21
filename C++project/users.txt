@@ -1,0 +1,4 @@
+1,Alice,South Dorm
+2,Bob,North Dorm
+3,Charlie,East Dorm
+4,UPUP,E2

@@ -1,0 +1,6 @@
+1,Roast duck rice,16.8
+1,BBQ pork rice,18.0
+2,Rice noodle roll,8.0
+2,Lean pork noodle soup,10.0
+3,Cold noodle,7.0
+

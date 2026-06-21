@@ -1,0 +1,12 @@
+# Visual Studio 编译生成文件
+Debug/
+Release/
+x64/
+*.obj
+*.exe
+*.pdb
+*.ilk
+*.log
+*.tlog
+*.idb
+*.ipdb
